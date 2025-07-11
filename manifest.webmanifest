@@ -21,3 +21,40 @@
     }
   ]
 }
+
+{
+  "name": "Zamir App",
+  "short_name": "Zamir",
+  "description": "אפליקציית תרגול אנגלית חכמה ומעוצבת במיוחד לתלמידים",
+  "id": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#1a202c",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "720x1280",
+      "type": "image/png"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
+  "lang": "he",
+  "dir": "rtl"
+}

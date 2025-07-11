@@ -1,0 +1,8 @@
+{
+  "name": "English Trip Prep (הכנה לטיול באנגלית)",
+  "description": "An intuitive application for Hebrew speakers to learn basic, functional English for traveling abroad. The app focuses on pronunciation, essential vocabulary, and everyday phrases through interactive daily lessons.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
